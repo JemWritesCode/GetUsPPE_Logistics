@@ -3,7 +3,7 @@ Help healthcare workers get the PPE they need for COVID-19. #GetUsPPE
 
 Currently we are working on solving logistics for PPE donors > volunteer drivers > healthcare facilities in need.
 
-![DataFlow Image](https://github.com/Jemmeh/GetThemPPE/blob/master/GetUsPPEDatafow2.PNG?raw=true)
+
 
 
 ### Can you help?
@@ -16,3 +16,4 @@ You can also join Helpful Engineering. Helpful Engineering is designing, sourcin
 
 [Project Planning on Trello](https://trello.com/b/oW1EvNbO/ppe-distributor)
 
+![DataFlow Image](https://github.com/Jemmeh/GetThemPPE/blob/master/GetUsPPEDatafow2.PNG?raw=true)
